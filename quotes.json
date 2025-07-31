@@ -1,0 +1,42 @@
+[
+  {
+    "quote": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "categories": ["Tech"]
+  },
+  {
+    "quote": "Innovation distinguishes between a leader and a follower.",
+    "author": "Steve Jobs",
+    "categories": ["Tech", "Random"]
+  },
+  {
+    "quote": "Build something that a small number of users love, rather than a large number of users like.",
+    "author": "Sam Altman",
+    "categories": ["Product Management"]
+  },
+  {
+    "quote": "Great products are built by teams who deeply understand their users' needs and pain points.",
+    "author": "Marty Cagan",
+    "categories": ["Product Management"]
+  },
+  {
+    "quote": "AI is the new electricity.",
+    "author": "Andrew Ng",
+    "categories": ["AI", "Tech"]
+  },
+  {
+    "quote": "The greatest danger of artificial intelligence is that people conclude too early that they understand it.",
+    "author": "Eliezer Yudkowsky",
+    "categories": ["AI"]
+  },
+  {
+    "quote": "Strive not to be a success, but rather to be of value.",
+    "author": "Albert Einstein",
+    "categories": ["Random"]
+  },
+  {
+    "quote": "The mind is everything. What you think you become.",
+    "author": "Buddha",
+    "categories": ["Random"]
+  }
+]
